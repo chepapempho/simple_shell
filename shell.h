@@ -65,9 +65,3 @@ void free_list(list_path *head);
 
 
 #endif
-
-
-## Author(s)
-##### Kyle Stols
-##### Mpho Chepape
-ALX Software Engineering

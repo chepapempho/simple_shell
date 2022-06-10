@@ -88,8 +88,3 @@ int main(void)
 	return (0);
 }
 
-## Author(s)
-##### Kyle Stols
-##### Mpho Chepape
-ALX Software Engineering
-
